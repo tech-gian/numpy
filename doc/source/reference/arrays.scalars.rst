@@ -246,7 +246,7 @@ elements the data type consists of.)
    convention more consistent with other Python modules such as the
    :mod:`struct` module.
 
-.. _Sized-aliases: Sized aliases
+Sized aliases
 ~~~~~~~~~~~~~
 
 Along with their (mostly)
